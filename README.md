@@ -7,4 +7,6 @@
 - 🌱 I’m currently learning web programming
 - 💕 I'm currently fall in love with React and Laravel
 - 📫 You can reach me at my instagram [@yoniwidhi.133](https://instagram.com/yoniwidhi.133)
+- 📲 You can connect with me on my Telegram Message [@yoniwidhi](https://t.me/yoniwidhi)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichiNect&theme=vue">
