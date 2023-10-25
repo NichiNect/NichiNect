@@ -1,13 +1,15 @@
-## Hey There!! 👋
+# Hey There!! 👋
+
+### About My Self
 
 - ⚡ Excited about the open-source projects
 - 😄 I'm natively speak Indonesian and also can speak english too.
 - 🌱 I’m currently learning programming, technology, & everything i want
-- 💕 I love to reads and watching a movie or cinematography
+- 💕 I love to read the interesting stuff and watching a movie or cinematography
 
 ---
 
-### Visitor count
+### Visitor Count
 <img src="https://profile-counter.glitch.me/NichiNect/count.svg" />
 
 ---
@@ -121,13 +123,13 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary>
    📔 GitHub Stats:
   </summary>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NichiNect&show_icons=true&include_all_commits=true&count_private=true" alt="yoniwidhi" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NichiNect&show_icons=true&include_all_commits=true" alt="yoniwidhi" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichiNect&layout=compact&langs_count=10" alt="yoniwidhi" height="200" />
   </p>
 </details>
